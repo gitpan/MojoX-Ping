@@ -21,4 +21,4 @@ requires:
   Mojolicious: 2.37
 resources:
   repository: https://github.com/und3f/mojox-ping
-version: 0.5
+version: 0.51
