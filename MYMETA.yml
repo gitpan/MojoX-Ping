@@ -1,5 +1,5 @@
 ---
-abstract: 'asynchronous ping with L<Mojolicious>.'
+abstract: 'asynchronous ping with L<Mojolicious> (DEPRECATED).'
 author:
   - 'Sergey Zasenko <d3fin3@gmail.com>'
 build_requires:
@@ -7,7 +7,7 @@ build_requires:
 configure_requires:
   ExtUtils::MakeMaker: 0
 dynamic_config: 0
-generated_by: 'ExtUtils::MakeMaker version 6.59, CPAN::Meta::Converter version 2.113640'
+generated_by: 'ExtUtils::MakeMaker version 6.62, CPAN::Meta::Converter version 2.120351'
 license: artistic_2
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -21,4 +21,4 @@ requires:
   Mojolicious: 2.37
 resources:
   repository: https://github.com/und3f/mojox-ping
-version: 0.51
+version: 0.511
